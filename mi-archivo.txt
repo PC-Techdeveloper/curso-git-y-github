@@ -1,2 +1,1 @@
-!Hola, freeCodeCamp!
-Nuevo texto!
+!Hola freeCodeCamp!
