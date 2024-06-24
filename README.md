@@ -74,6 +74,8 @@ Es un proceso que permite combinar varias líneas independientes de desarrollo e
 
 - git merge nombre-de-la-rama-a-fusionar
 
+- git merge --continue: Continuar la fusión de las ramas (Después de solucionar los conflictos).
+
 # Conflictos al fusionar ramas:
 
 Los conflictos ocurren cuando se trata de combinar ramas que están en el mismo conflicto:
