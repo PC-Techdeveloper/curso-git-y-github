@@ -58,17 +58,18 @@ CREAR COMMITS EN LAS RAMAS (NO EN LA RAMA MAIN):
 
 -- git checkout <nombre-de-la-rama>: Usar el comando git branch para ver el historial de las ramas creadas, luego git checkout <nombre-de-la-rama> para cambiar de rama y realizar la modificación, por último realizar el commit guardando los cambios. Regresar a la versión anterior y notarás que tienes dos versiones diferentes por arte de magia.
 
-GIT LOG PARA LAS RAMAS: El comando git log muestra las instantáneas confirmadas. Te permite ver el historial del proyecto, filtrarlo y buscar cambios concretos. Mientras que git status te permite examinar el directorio de trabajo y el entorno de ensayo, git log solo muestra el historial confirmado.
+## GIT LOG PARA LAS RAMAS:
+
+El comando git log muestra las instantáneas confirmadas. Te permite ver el historial del proyecto, filtrarlo y buscar cambios concretos. Mientras que git status te permite examinar el directorio de trabajo y el entorno de ensayo, git log solo muestra el historial confirmado.
+
+-- git log : Permite ver el historial de las ramas.
+
+-- git log --oneline: Ver el historial de las ramas en una sola línea.
 
 ## FUSIONAR UNA RAMA CON LA RAMA MAIN
 
 Es un proceso que permite combinar varias líneas independientes de desarrollo en una sola rama (Para fusionar dos ramas, debes estar en la rama que RECIBIRÁ la fusión).
 
--- Fusionar una rama 
+-- Fusionar una rama
 
-- git merge <nombre-de-la-rama-a-fusionar>
-
-
-
-
-
+- git merge nombre-de-la-rama-a-fusionar
