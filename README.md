@@ -95,3 +95,5 @@ Es un servicio de hoisting que nos permite almacenar proyectos de desarrollo de 
 
 - git clone -> Clonar repositorio remoto.
 - origin -> Nombre de identificación que comúnmente se le asigna al repositorio remoto que ha sido clonado.
+
+Continuación en otra carpeta "continuacion-de-git-y-github"
