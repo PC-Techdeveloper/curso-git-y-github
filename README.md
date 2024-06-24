@@ -1,4 +1,4 @@
-### GIT:
+### GIT: REPOSITORIOS LOCALES (Solo NOSOTROS tenemos acceso)
 
 REPOSITORIO REMOTO EN GITHUB DESDE GIT
 
@@ -82,3 +82,16 @@ Los conflictos ocurren cuando se trata de combinar ramas que están en el mismo 
 
 -- Modifican la misma línea, texto, elemento (Cambios incompatibles).
 
+## INTRODUCCIÓN A GITHUB
+
+¿Qué es GitHub?
+Es un servicio de hoisting que nos permite almacenar proyectos de desarrollo de Software y control de versiones usando `GIT`.
+
+-- Crear una cuenta de perfil en GitHub, realizar todas las configuraciones necesarias.
+
+## CLONAR UN REPOSITORIO
+
+-- Crear una copia local de un repositorio remoto, incluyendo sus versiones e historial de commits.
+
+- git clone -> Clonar repositorio remoto.
+- origin -> Nombre de identificación que comúnmente se le asigna al repositorio remoto que ha sido clonado.
