@@ -66,7 +66,7 @@ Es un proceso que permite combinar varias líneas independientes de desarrollo e
 
 -- Fusionar una rama 
 
-- git merge <rama-principal> <nombre-de-la-rama-a-fusionar>
+- git merge <nombre-de-la-rama-a-fusionar>
 
 
 
