@@ -73,3 +73,10 @@ Es un proceso que permite combinar varias líneas independientes de desarrollo e
 -- Fusionar una rama
 
 - git merge nombre-de-la-rama-a-fusionar
+
+# Conflictos al fusionar ramas:
+
+Los conflictos ocurren cuando se trata de combinar ramas que están en el mismo conflicto:
+
+-- Modifican la misma línea, texto, elemento (Cambios incompatibles).
+
