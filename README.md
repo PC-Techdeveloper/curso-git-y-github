@@ -58,5 +58,11 @@ CREAR COMMITS EN LAS RAMAS (NO EN LA RAMA MAIN):
 
 -- git checkout <nombre-de-la-rama>: Usar el comando git branch para ver el historial de las ramas creadas, luego git checkout <nombre-de-la-rama> para cambiar de rama y realizar la modificación, por último realizar el commit guardando los cambios. Regresar a la versión anterior y notarás que tienes dos versiones diferentes por arte de magia.
 
-GIT LOG PARA LAS RAMAS:
-...
+GIT LOG PARA LAS RAMAS: Permite ver el historial del proyecto, filtrarlo y buscar cambios concretos. Mientras que el `git status` permite examinar el directorio de trabajo y el entorno de esanyo, git log solo muessra el historial confirmado.
+
+# FUSIONAR RAMAS (MERGE):
+Es un proceso que permite combinar varias líneas independientes de desarrollo en una sola rama (Para fusionar dos ramas, debes estar en la rama que RECIBIRÁ la fusión).
+
+-- Fusionar una rama con la rama main:
+
+
