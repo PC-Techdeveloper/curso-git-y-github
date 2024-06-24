@@ -64,3 +64,11 @@ GIT LOG PARA LAS RAMAS: El comando git log muestra las instantáneas confirmadas
 
 Es un proceso que permite combinar varias líneas independientes de desarrollo en una sola rama (Para fusionar dos ramas, debes estar en la rama que RECIBIRÁ la fusión).
 
+-- Fusionar una rama 
+
+- git merge <rama-principal> <nombre-de-la-rama-a-fusionar>
+
+
+
+
+
